@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Quiz on the functioning of Dappykit.",
+  "questions": [
+    {
+      "question": "What is Dappykit?",
+      "answers": ["Tool", "OS", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit helps to build?",
+      "answers": ["dApps", "Sites", "Games"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit is used for?",
+      "answers": ["Blockchain", "AI", "VR"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which layer does Dappykit support?",
+      "answers": ["Layer 2", "Layer 1", "Layer 3"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit aids in?",
+      "answers": ["Testing", "Mining", "Trading"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit supports?",
+      "answers": ["Web3", "Web2", "Web1"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What tech is central to Dappykit?",
+      "answers": ["Smart", "BigData", "Cloud"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit optimizes?",
+      "answers": ["dApps", "Sites", "Files"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit offers?",
+      "answers": ["SDK", "API", "GUI"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Primary use of Dappykit?",
+      "answers": ["Dev", "Admin", "User"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit enhances?",
+      "answers": ["UX", "UX/UI", "UI"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit focuses on?",
+      "answers": ["Web3", "Web2", "Web"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit is?",
+      "answers": ["Modular", "Linear", "Fixed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit integrates?",
+      "answers": ["Smart", "Dumb", "Hard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit provides?",
+      "answers": ["Lib", "Tools", "Packs"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Dappykit is written in?",
+      "answers": ["Solidity", "Python", "C++"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit uses?",
+      "answers": ["DeFi", "CeFi", "HyFi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit supports?",
+      "answers": ["dApps", "APIs", "Nodes"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit enables?",
+      "answers": ["Deploy", "Design", "Debug"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dappykit runs on?",
+      "answers": ["Node", "React", "Angular"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
